@@ -1,0 +1,11 @@
+{
+    "name": "burdamagazinorg/link-link",
+    "description": "Mock repo",
+    "type": "drupal-module",
+    "minimum-stability": "dev",
+    "require": {},
+    "replace": {
+      "drupal/link-link": "*"
+    }
+}
+
